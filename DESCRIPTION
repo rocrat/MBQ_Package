@@ -1,0 +1,11 @@
+Package: MBQhsi
+Title: Masked Bobwhite HSI Models
+Vesion: 0.0.1
+Authors@R: person("Dominic", "LaRoche", , "dlaroche@email.arizona.edu", role = c("aut", "cre"))
+Description: This is a package to implement the competing habitat suitability models derived from expert opinion
+    as outlined in LaRoche D.D. and C.J. Conway. 2013.  Habitat Suitability Index Models for Masked Bobwhite.   Technical Report to the Masked Bobwhite Recovery Team. 
+Depends:
+    R (>= 3.2.0)
+License: Unlimited
+LazyData: true
+RoxygenNote: 5.0.1
