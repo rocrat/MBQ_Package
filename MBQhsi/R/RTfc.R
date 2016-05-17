@@ -1,4 +1,4 @@
-#' @title Dr.s Sally Gall and Dan Cohan Forb Cover
+#' @title Dr. Roy Tomlinson Forb Cover
 #'
 #' @description Calculates the partial HSI given the forb cover.
 #'

@@ -1,4 +1,4 @@
-#' @title Dr. Roy Tomlinson Forb Diversity
+#' @title Literature Forb Diversity
 #' @description Calculates the partial HSI given the forb diversity.
 #'
 #' @param x From Simms (1989): Forb diversity as measured by the mean number of forb species as measured by the Daubenmire method (Daubenmire 1959).
