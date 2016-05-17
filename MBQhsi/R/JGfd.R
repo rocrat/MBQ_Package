@@ -8,6 +8,9 @@
 #'
 #' @usage FD.Goodwin(x)
 #'
+#' @export
+#' @name FD.Goodwin
+#' @author Dominic LaRoche
 #'
 FD.Goodwin <- function(x){
   s <- ifelse(x <= 4.9, 0.2 + (x/5.5)^2,

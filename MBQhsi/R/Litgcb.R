@@ -7,6 +7,9 @@
 #'
 #' @usage GCB.Lit(x)
 #'
+#' @export
+#' @name GCB.Lit
+#' @author Dominic LaRoche
 #'
 GCB.Lit <- function(x){
   s <- dnorm(x, 50, 12) * 30.07954

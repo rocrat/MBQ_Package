@@ -20,6 +20,9 @@
 #'
 #' @usage MH.HSI(fc, gc, sc, tc, bg, nc, gr.x, gr.loc, fd, sd, gd, lv, eh)
 #'
+#' @export
+#' @name MH.HSI
+#' @author Dominic LaRoche
 #'
 MH.HSI <- function(fc, gc, sc, tc, bg, nc, gr.x, gr.loc, fd, sd, gd, lv, eh){
   f <- Food.Mary(sc, bg, fc, gc, gr.x, gr.loc, gd, fd, sd)

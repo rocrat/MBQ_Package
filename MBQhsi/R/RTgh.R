@@ -8,6 +8,9 @@
 #'
 #' @usage GH.RT(x)
 #'
+#' @export
+#' @name GH.RT
+#' @author Dominic LaRoche
 #'
 GH.RT <- function(x){
   s <- dgamma(x, 4, 8)/1.8

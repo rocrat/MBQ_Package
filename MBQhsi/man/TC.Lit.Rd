@@ -15,4 +15,7 @@ Returns the relative HSI value
 \description{
 Calculates the partial HSI given the tree  and shrub cover.
 }
+\author{
+Dominic LaRoche
+}
 

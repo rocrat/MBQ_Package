@@ -20,4 +20,7 @@ Calculates the partial HSI given the grasshopper abundance
 \details{
 Grasshopper abundance during the breeding season on each acre.  The exact relationship is unknown but more is better.  The given function will assign suitability to an area relative to other measured areas.
 }
+\author{
+Dominic LaRoche
+}
 

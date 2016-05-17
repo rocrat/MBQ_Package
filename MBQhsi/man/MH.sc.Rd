@@ -18,4 +18,7 @@ Calculates the partial HSI given a proportion of shrub cover
 \details{
 Cover of woody shrubs as measured by aerial photo, or line intercept method, within each acre of ground.
 }
+\author{
+Dominic LaRoche
+}
 

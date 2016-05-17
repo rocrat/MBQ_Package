@@ -8,6 +8,9 @@
 #'
 #' @usage BG.SGDC(x)
 #'
+#' @export
+#' @name BG.SGDC
+#' @author Dominic LaRoche
 #'
 BG.SGDC <- function(x){
   s <- dbeta(x, 3, 9)/3.322

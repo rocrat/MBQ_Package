@@ -7,6 +7,9 @@
 #'
 #' @usage GC.Lit(x)
 #'
+#' @export
+#' @name GC.Lit
+#' @author Dominic LaRoche
 #'
 GC.Lit <- function(x){
   s <- dnorm(x, 50, 12) * 30.07954

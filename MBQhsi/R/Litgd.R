@@ -7,6 +7,9 @@
 #'
 #' @usage GD.Lit(x)
 #'
+#' @export
+#' @name GD.Lit
+#' @author Dominic LaRoche
 #'
 GD.Lit <- function(x){
   s <- pnorm(x, 7, 1.5)

@@ -9,6 +9,9 @@
 #'
 #' @usage TC.RT(x, summer = TRUE)
 #'
+#' @export
+#' @name TC.RT
+#' @author Dominic LaRoche
 #'
 TC.RT <- function(x, summer = TRUE){
   if(summer){

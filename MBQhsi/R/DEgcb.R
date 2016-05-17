@@ -8,6 +8,9 @@
 #'
 #' @usage GCB.Ellis(x)
 #'
+#' @export
+#' @name GCB.Ellis
+#' @author Dominic LaRoche
 #'
 GCB.Ellis <- function(x){
   s <- dbeta(x, 5, 20)/5.155

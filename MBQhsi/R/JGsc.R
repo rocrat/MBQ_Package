@@ -8,6 +8,9 @@
 #' @return Returns the relative HSI value
 #'
 #' @usage SC.Goodwin(x, AZ = TRUE)
+#' @export
+#' @name SC.Goodwin
+#' @author Dominic LaRoche
 #'
 #'@details Shrub cover should be distributed in clumps approximately 100 yards apart.
 SC.Goodwin <- function(x, AZ = TRUE){

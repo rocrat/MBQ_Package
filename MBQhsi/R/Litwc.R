@@ -10,6 +10,9 @@
 #'
 #' @usage WC.Lit(x, AZ = TRUE, author)
 #'
+#' @export
+#' @name WC.Lit
+#' @author Dominic LaRoche
 #'
 WC.Lit <- function(x, AZ = TRUE, author){
   if(length(author) > 1) stop("Please choose only one author")

@@ -20,4 +20,7 @@ Calculates the partial HSI given the shrub cover.
 \details{
 Shrub cover should be distributed in clumps approximately 100 yards apart.
 }
+\author{
+Dominic LaRoche
+}
 

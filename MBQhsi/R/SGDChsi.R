@@ -23,6 +23,9 @@
 #'
 #' @usage HSI.SGDC(fcs, fcw, fd, fhs, fhw, gcp, gca, gdp, gda, gh, sc, sh, tc, tca, bg, expert = 1)
 #'
+#' @export
+#' @name HSI.SGDC
+#' @author Dominic LaRoche
 #'
 HSI.SGDC <- function(fcs, fcw, fd, fhs, fhw, gcp, gca, gdp, gda, gh, sc, sh, tc, tca, bg, expert = 1){
   f <- Food.SGDC(fcs, fcw, fhs, fhw, fd, gh, gcp, gca, gdp, gda, sc, sh, expert = expert)

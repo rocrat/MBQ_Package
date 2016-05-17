@@ -7,6 +7,9 @@
 #' @return Returns the relative HSI value
 #'
 #' @usage GCC.Ellis(x)
+#' @export
+#' @name GCC.Ellis
+#' @author Dominic LaRoche
 #'
 #'
 GCC.Ellis <- function(x){

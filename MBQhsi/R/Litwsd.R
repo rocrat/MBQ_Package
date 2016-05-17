@@ -8,6 +8,9 @@
 #'
 #' @usage WSD.Lit(x)
 #'
+#' @export
+#' @name WSD.Lit
+#' @author Dominic LaRoche
 #'
 WSD.Lit <- function(x){
   s <- dnorm(x, 47.1, 10.62)*26.62039

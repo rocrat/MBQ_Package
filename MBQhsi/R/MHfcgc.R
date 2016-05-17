@@ -8,6 +8,9 @@
 #'
 #' @usage MH.fcgc(x)
 #'
+#' @export
+#' @name MH.fcgc
+#' @author Dominic LaRoche
 #'
 MH.fcgc <- function(x){
   s <- ifelse(x < 0.15, dbeta(x, 1.1, 1) * 1.099001, 1)

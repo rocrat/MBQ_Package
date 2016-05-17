@@ -9,6 +9,9 @@
 #'
 #' @usage FC.SGDC(x, summer = TRUE)
 #'
+#' @export
+#' @name FC.SGDC
+#' @author Dominic LaRoche
 #'
 FC.SGDC <- function(x, summer = TRUE){
   if(summer){

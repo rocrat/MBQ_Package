@@ -8,6 +8,9 @@
 #'
 #' @usage GH.Ellis(x)
 #'
+#' @export
+#' @name GH.Ellis
+#' @author Dominic LaRoche
 #'
 GH.Ellis <- function(x){
   if(any(x > 3)) stop("Grass height should be measured in meters and it is unlikely that grass is over 3 meters in height.")

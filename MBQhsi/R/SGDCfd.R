@@ -8,6 +8,9 @@
 #'
 #' @usage FD.SGDC(x)
 #'
+#' @export
+#' @name FD.SGDC
+#' @author Dominic LaRoche
 #'
 FD.SGDC <- function(x){
   s <- pgamma(x, 22.5, rate = 1)

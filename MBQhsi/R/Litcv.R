@@ -9,6 +9,9 @@
 #'
 #' @usage CV.Lit(x, AZ = TRUE)
 #'
+#' @export
+#' @name CV.Lit
+#' @author Dominic LaRoche
 #'
 CV.Lit <- function(x, AZ = TRUE){
   if(AZ){

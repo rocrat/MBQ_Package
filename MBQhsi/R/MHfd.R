@@ -8,6 +8,9 @@
 #'
 #' @usage MH.fd(x)
 #'
+#' @export
+#' @name MH.fd
+#' @author Dominic LaRoche
 #'
 MH.fd <- function(x){
   s <- pgamma(x, 20, 2)

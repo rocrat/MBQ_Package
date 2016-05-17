@@ -18,4 +18,7 @@ Calculates the partial HSI given the presence of an ecotone.
 \details{
 The presence or absence of an ecotone between drainage and upland grass habitat on each acre.
 }
+\author{
+Dominic LaRoche
+}
 

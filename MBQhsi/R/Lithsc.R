@@ -7,6 +7,9 @@
 #'
 #' @usage HSC.Lit(x)
 #'
+#' @export
+#' @name HSC.Lit
+#' @author Dominic LaRoche
 #'
 HSC.Lit <- function(x){
   s <- 1 - pnorm(x, 1.3, 0.5)

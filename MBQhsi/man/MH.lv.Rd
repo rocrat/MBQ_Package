@@ -18,4 +18,7 @@ Calculates the partial HSI given the presence of multi-layered vegetation.
 \details{
 The presence or absence of multi-layered vegetation on each acre.
 }
+\author{
+Dominic LaRoche
+}
 

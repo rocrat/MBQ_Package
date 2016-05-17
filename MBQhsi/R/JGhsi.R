@@ -12,10 +12,13 @@
 #'
 #' @return Returns the relative HSI value
 #'
-#' @usage HSI.goodwin(fd, fc, gd, gc, tc, sc, AZ = TRUE)
+#' @usage HSI.Goodwin(fd, fc, gd, gc, tc, sc, AZ = TRUE)
 #'
+#' @export
+#' @name HSI.Goodwin
+#' @author Dominic LaRoche
 #'
-HSI.goodwin <- function(fd, fc, gd, gc, tc, sc, AZ = TRUE){
+HSI.Goodwin <- function(fd, fc, gd, gc, tc, sc, AZ = TRUE){
   f <- Food.goodwin(gd, fd, AZ)
   c <- Cover.goodwin(fd, fc, gd, gc, tc, sc, AZ)
   t <- Thermal.goodwin(fd, fc, tc, AZ)

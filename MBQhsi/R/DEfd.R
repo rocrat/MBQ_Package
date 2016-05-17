@@ -7,7 +7,9 @@
 #' @return Returns the relative HSI value
 #'
 #' @usage FD.Ellis(x)
-#'
+#' @export
+#' @name FD.Ellis
+#' @author Dominic LaRoche
 #'
 FD.Ellis <- function(x){
   s <- pgamma(x, 22.5, rate = 1)

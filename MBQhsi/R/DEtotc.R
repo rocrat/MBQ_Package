@@ -9,6 +9,9 @@
 #'
 #' @usage TotC.Ellis(x, Summer = TRUE)
 #'
+#' @export
+#' @name TotC.Ellis
+#' @author Dominic LaRoche
 #'
 TotC.Ellis <- function(x, Summer = TRUE){
   if(Summer){

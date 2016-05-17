@@ -9,6 +9,9 @@
 #'
 #' @usage GH.SGDC(x, expert = TRUE)
 #'
+#' @export
+#' @name GH.SGDC
+#' @author Dominic LaRoche
 #'
 GH.SGDC <- function(x, expert = TRUE){
   if(expert == 1){

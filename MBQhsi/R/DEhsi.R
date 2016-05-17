@@ -19,6 +19,9 @@
 #'
 #' @usage HSI.Ellis(fh, gh, sh, tc, gcc, gcs, gcb, fd, gd, sd, totc, Summer = TRUE)
 #'
+#' @export
+#' @name HSI.Ellis
+#' @author Dominic LaRoche
 #'
 HSI.Ellis<-function(fh, gh, sh, tc, gcc, gcs, gcb, fd, gd, sd, totc, Summer = TRUE){
   p <- Pred.Ellis(fh, gh, sh, tc, fd, gd, sd, gcc, gcs, gcb, totc, Summer)

@@ -8,6 +8,9 @@
 #'
 #' @usage VC.Lit(x)
 #'
+#' @export
+#' @name VC.Lit
+#' @author Dominic LaRoche
 #'
 VC.Lit <- function(x){
   s <- (pnorm(x, 83, 5))

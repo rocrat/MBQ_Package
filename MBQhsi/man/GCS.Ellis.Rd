@@ -15,4 +15,7 @@ Returns the relative HSI value
 \description{
 Calculates the partial HSI given the grass side cover.
 }
+\author{
+Dominic LaRoche
+}
 

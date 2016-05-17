@@ -9,6 +9,9 @@
 #'
 #' @usage FC.RT(x, summer = TRUE)
 #'
+#' @export
+#' @name FC.RT
+#' @author Dominic LaRoche
 #'
 FC.RT <- function(x, summer = TRUE){
   if(summer){

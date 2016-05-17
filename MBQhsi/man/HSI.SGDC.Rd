@@ -45,4 +45,7 @@ Returns the relative HSI value
 \description{
 Calculates the HSI given the values of forb cover, forb height, grass cover, grass height, shrub cover, shrub height, tree cover, bare ground, forb diversity, and grass diversity.
 }
+\author{
+Dominic LaRoche
+}
 

@@ -7,6 +7,9 @@
 #' @return Returns the relative HSI value
 #'
 #' @usage GD.Ellis(x)
+#' @export
+#' @name GD.Ellis
+#' @author Dominic LaRoche
 #'
 #'
 GD.Ellis <- function(x){

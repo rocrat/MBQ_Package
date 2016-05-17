@@ -18,4 +18,7 @@ Calculates the partial HSI given a proportion of bare ground
 \details{
 Amount of bare ground, including that under vegetation. Must be capable of being traversed by a bobwhite. Measured as one would on Daubenmire transect.
 }
+\author{
+Dominic LaRoche
+}
 

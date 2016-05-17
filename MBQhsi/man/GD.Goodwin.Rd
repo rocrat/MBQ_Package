@@ -17,4 +17,7 @@ Returns the relative HSI value
 \description{
 Calculates the partial HSI given the grass diversity.
 }
+\author{
+Dominic LaRoche
+}
 

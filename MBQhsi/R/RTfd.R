@@ -8,6 +8,9 @@
 #'
 #' @usage FD.RT(x)
 #'
+#' @export
+#' @name FD.RT
+#' @author Dominic LaRoche
 #'
 FD.RT <- function(x){
   s <- pgamma(x, 25.5, rate=1)

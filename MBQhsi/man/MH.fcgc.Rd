@@ -15,4 +15,7 @@ Returns the relative HSI value
 \description{
 Calculates the partial HSI given a the cover of either green forbs or grass (same function for both).
 }
+\author{
+Dominic LaRoche
+}
 

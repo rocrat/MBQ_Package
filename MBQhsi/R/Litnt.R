@@ -8,6 +8,9 @@
 #'
 #' @usage NT.Lit(x)
 #'
+#' @export
+#' @name NT.Lit
+#' @author Dominic LaRoche
 #'
 NT.Lit <- function(x){
   s <- dnorm(x, 150, 15) * 37.5994

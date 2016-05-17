@@ -2,7 +2,7 @@
 % Please edit documentation in R/Litfd.R
 \name{FD.Lit}
 \alias{FD.Lit}
-\title{Dr. Roy Tomlinson Forb Diversity}
+\title{Literature Forb Diversity}
 \usage{
 FD.Lit(x)
 }
@@ -14,5 +14,8 @@ Returns the relative HSI value
 }
 \description{
 Calculates the partial HSI given the forb diversity.
+}
+\author{
+Dominic LaRoche
 }
 

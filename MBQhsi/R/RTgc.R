@@ -8,6 +8,9 @@
 #'
 #' @usage GC.RT(x)
 #'
+#' @export
+#' @name GC.RT
+#' @author Dominic LaRoche
 #'
 GC.RT <- function(x){
   s <- dbeta(x, 9, 9)/3.34

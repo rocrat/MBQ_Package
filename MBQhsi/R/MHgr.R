@@ -11,6 +11,10 @@
 #'
 #' @details Grasshopper abundance during the breeding season on each acre.  The exact relationship is unknown but more is better.  The given function will assign suitability to an area relative to other measured areas.
 #'
+#' @export
+#' @name MH.gr
+#' @author Dominic LaRoche
+#'
 
 MH.gr <- function(x, loc){
   s <- rank(x) / length(x)

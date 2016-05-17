@@ -8,6 +8,9 @@
 #'
 #' @usage TC.Lit(x)
 #'
+#' @export
+#' @name TC.Lit
+#' @author Dominic LaRoche
 #'
 TC.Lit <- function(x){
   s <- dnorm(x, 10, 3) * 7.519885

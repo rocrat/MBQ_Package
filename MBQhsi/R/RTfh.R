@@ -8,6 +8,9 @@
 #'
 #' @usage FH.RT(x)
 #'
+#' @export
+#' @name FH.RT
+#' @author Dominic LaRoche
 #'
 FH.RT <- function(x){
   s <- dgamma(x/100, 4, 8)/1.8

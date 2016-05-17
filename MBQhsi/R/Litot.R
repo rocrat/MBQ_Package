@@ -7,6 +7,9 @@
 #'
 #' @usage OT.Lit(x)
 #'
+#' @export
+#' @name OT.Lit
+#' @author Dominic LaRoche
 #'
 OT.Lit <- function(x){
   s <- s <- 1 - pnorm(x, 25, 3)

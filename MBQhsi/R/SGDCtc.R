@@ -9,6 +9,9 @@
 #'
 #' @usage TC.SGDC(x, uplands = TRUE)
 #'
+#' @export
+#' @name TC.SGDC
+#' @author Dominic LaRoche
 #'
 TC.SGDC <- function(x, uplands = TRUE){
   if(uplands){

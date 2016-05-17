@@ -47,4 +47,7 @@ Returns the relative HSI value
 \description{
 Calculates the HSI given the values of woody stem density, woody cover, tree and shrub cover, number of trees, visual cover, disc of vulnerability, cone of vulnerability, number of forbs, forb diversity, forb cover, grass cover, basal grass cover, Lehmann's lovegrass cover, bare ground, half-shrub cover, and operative temperature.
 }
+\author{
+Dominic LaRoche
+}
 

@@ -24,6 +24,9 @@
 #'
 #' @usage HSI.Lit(wsd, wc, tc, nt, vc, dv, cv, nf, fd, fc, gc, gcb, llg, hsc, bg, ot, AZ = TRUE)
 #'
+#' @export
+#' @name HSI.Lit
+#' @author Dominic LaRoche
 #'
 
 HSI.Lit <- function(wsd, wc, tc, nt, vc, dv, cv, nf, fd, fc, gc, gcb, llg, hsc, bg, ot, AZ = TRUE){

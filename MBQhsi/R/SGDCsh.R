@@ -8,6 +8,9 @@
 #'
 #' @usage SH.SGDC(x)
 #'
+#' @export
+#' @name SH.SGDC
+#' @author Dominic LaRoche
 #'
 SH.SGDC <- function(x){
   s <- dgamma(x, 10, 2.5)*3.05

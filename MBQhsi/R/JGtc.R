@@ -9,6 +9,9 @@
 #'
 #' @usage TC.Goodwin(x, AZ = TRUE)
 #'
+#' @export
+#' @name TC.Goodwin
+#' @author Dominic LaRoche
 #'
 TC.Goodwin <- function(x, AZ = TRUE){
   if(AZ){

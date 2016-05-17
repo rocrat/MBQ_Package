@@ -17,4 +17,7 @@ Returns the relative HSI value
 \description{
 Calculates the partial HSI given the forb cover.
 }
+\author{
+Dominic LaRoche
+}
 

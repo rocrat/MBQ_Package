@@ -15,4 +15,7 @@ Returns the relative HSI value
 \description{
 Calculates the partial HSI given a the forb diversity.
 }
+\author{
+Dominic LaRoche
+}
 

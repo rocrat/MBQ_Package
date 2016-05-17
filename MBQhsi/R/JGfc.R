@@ -9,6 +9,9 @@
 #'
 #' @usage FC.Goodwin(x, AZ = TRUE)
 #'
+#' @export
+#' @name FC.Goodwin
+#' @author Dominic LaRoche
 #'
 FC.Goodwin <- function(x, AZ = TRUE){
   if(AZ){

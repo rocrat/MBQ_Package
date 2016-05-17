@@ -8,6 +8,9 @@
 #'
 #' @usage BG.Lit(x, author)
 #'
+#' @export
+#' @name BG.Lit
+#' @author Dominic LaRoche
 #'
 BG.Lit <- function(x, author){
   if(length(author) > 1) stop("Please choose only one author")

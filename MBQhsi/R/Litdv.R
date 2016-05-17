@@ -8,6 +8,9 @@
 #'
 #' @usage DV.Lit(x)
 #'
+#' @export
+#' @name DV.Lit
+#' @author Dominic LaRoche
 #'
 DV.Lit <- function(x){
   s <- 1 - pnorm(x, 15, 4)

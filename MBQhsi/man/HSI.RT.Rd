@@ -2,7 +2,7 @@
 % Please edit documentation in R/RThsi.R
 \name{HSI.RT}
 \alias{HSI.RT}
-\title{Dr.s Sally Gall and Dan Cohan HSI Function}
+\title{Dr. Roy Tomlinson HSI Function}
 \usage{
 HSI.RT(fcs, fcw, fd, fh, gc, gd, gh, tc, bg)
 }
@@ -30,5 +30,8 @@ Returns the relative HSI value
 }
 \description{
 Calculates the HSI given the values of forb cover, forb height, grass cover, grass height, shrub cover, shrub height, tree cover, bare ground, forb diversity, and grass diversity.
+}
+\author{
+Dominic LaRoche
 }
 

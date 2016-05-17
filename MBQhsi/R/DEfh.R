@@ -8,6 +8,9 @@
 #'
 #' @usage FH.Ellis(x)
 #'
+#' @export
+#' @name FH.Ellis
+#' @author Dominic LaRoche
 #'
 FH.Ellis <- function(x){
   s <- ifelse(x < 33, ((x^2)/1089),

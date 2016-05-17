@@ -9,6 +9,9 @@
 #'
 #' @usage GD.Goodwin(x, AZ = TRUE)
 #'
+#' @export
+#' @name GD.Goodwin
+#' @author Dominic LaRoche
 #'
 GD.Goodwin <- function(x, AZ = TRUE){
   if(AZ){

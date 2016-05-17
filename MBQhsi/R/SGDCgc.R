@@ -9,6 +9,9 @@
 #'
 #' @usage GC.SGDC(x, perennial = TRUE)
 #'
+#' @export
+#' @name GC.SGDC
+#' @author Dominic LaRoche
 #'
 GC.SGDC <- function(x, perennial = TRUE){
   if(perennial){

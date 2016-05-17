@@ -10,6 +10,10 @@
 #'
 #' @details Amount of bare ground, including that under vegetation. Must be capable of being traversed by a bobwhite. Measured as one would on Daubenmire transect.
 #'
+#' @export
+#' @name MH.bg
+#' @author Dominic LaRoche
+
 MH.bg <- function(x){
   s <- ifelse( x < .2805743, dbeta(x, 3, 4.5)/2,
                ifelse(x > .4525119, dbeta(x, 3, 4.5)/2, 1))

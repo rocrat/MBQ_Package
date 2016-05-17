@@ -39,4 +39,7 @@ Returns the relative HSI value
 \description{
 Calculates the HSI given the values of forb cover, grass cover, shrub cover, tree cover, bare ground, nest sites, grasshopper abundance, forb diversity, shrub diversity, grass diversity, layered vegetation, and ecotone presence.
 }
+\author{
+Dominic LaRoche
+}
 

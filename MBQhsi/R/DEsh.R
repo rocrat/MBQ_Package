@@ -8,6 +8,9 @@
 #'
 #' @usage SH.Ellis(x)
 #'
+#' @export
+#' @name SH.Ellis
+#' @author Dominic LaRoche
 #'
 SH.Ellis <- function(x){
   s <- dnorm(x, 1, 0.43)

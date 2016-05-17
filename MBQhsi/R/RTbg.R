@@ -8,6 +8,9 @@
 #'
 #' @usage BG.RT(x)
 #'
+#' @export
+#' @name BG.RT
+#' @author Dominic LaRoche
 #'
 BG.RT <- function(x){
   s <- dbeta(x, 9, 27)/5.571042

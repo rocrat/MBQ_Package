@@ -9,6 +9,9 @@
 #'
 #' @usage SC.SGDC(x, expert = 1)
 #'
+#' @export
+#' @name SC.SGDC
+#' @author Dominic LaRoche
 #'
 SC.SGDC <- function(x, expert = 1){
   if(expert == 1){

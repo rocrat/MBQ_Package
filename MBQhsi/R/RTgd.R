@@ -7,6 +7,9 @@
 #'
 #' @usage GD.RT(x)
 #'
+#' @export
+#' @name GD.RT
+#' @author Dominic LaRoche
 #'
 GD.RT <- function(x){
   s <- pgamma(x, 24, rate = 1)

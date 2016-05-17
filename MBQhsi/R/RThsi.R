@@ -16,6 +16,9 @@
 #'
 #' @usage HSI.RT(fcs, fcw, fd, fh, gc, gd, gh, tc, bg)
 #'
+#' @export
+#' @name HSI.RT
+#' @author Dominic LaRoche
 #'
 
 HSI.RT <- function(fcs, fcw, fd, fh, gc, gd, gh, tc, bg){

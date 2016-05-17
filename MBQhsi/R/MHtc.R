@@ -8,6 +8,9 @@
 #'
 #' @usage MH.tc(x)
 #'
+#' @export
+#' @name MH.tc
+#' @author Dominic LaRoche
 #'
 MH.tc <- function(x){
   s <- dbeta(x, 1.3, 7.366667) / 4.501841

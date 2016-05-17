@@ -8,6 +8,9 @@
 #'
 #' @usage MH.gd(x)
 #'
+#' @export
+#' @name MH.gd
+#' @author Dominic LaRoche
 #'
 MH.gd <- function(x){
   s <- pgamma(x, 10, 1.428571)

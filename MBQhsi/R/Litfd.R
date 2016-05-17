@@ -7,6 +7,9 @@
 #'
 #' @usage FD.Lit(x)
 #'
+#' @export
+#' @name FD.Lit
+#' @author Dominic LaRoche
 #'
 FD.Lit <- function(x){
   s <- pnorm(x, 7, 1.5)

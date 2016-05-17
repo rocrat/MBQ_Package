@@ -2,7 +2,7 @@
 % Please edit documentation in R/RTfc.R
 \name{FC.RT}
 \alias{FC.RT}
-\title{Dr.s Sally Gall and Dan Cohan Forb Cover}
+\title{Dr. Roy Tomlinson Forb Cover}
 \usage{
 FC.RT(x, summer = TRUE)
 }
@@ -16,5 +16,8 @@ Returns the relative HSI value
 }
 \description{
 Calculates the partial HSI given the forb cover.
+}
+\author{
+Dominic LaRoche
 }
 

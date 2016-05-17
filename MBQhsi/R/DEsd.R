@@ -8,6 +8,9 @@
 #'
 #' @usage SD.Ellis(x)
 #'
+#' @export
+#' @name SD.Ellis
+#' @author Dominic LaRoche
 #'
 SD.Ellis <- function(x){
   s <- pgamma(x, 11, rate = 1)

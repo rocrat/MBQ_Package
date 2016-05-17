@@ -18,4 +18,7 @@ Calculates the partial HSI given a the number of appropriate nest sites
 \details{
 Nests are typically located in a 9 inch (23cm) round clump of grass but can be located at the base of a shrub or under other similarly dense vegetation.  In flight pens, masked bobwhites will even use artificial structures for nesting cover.  Appropriate nest sites should be available at the rate of approximately 300-600 per acre.
 }
+\author{
+Dominic LaRoche
+}
 

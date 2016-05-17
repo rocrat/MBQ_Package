@@ -7,6 +7,9 @@
 #'
 #' @usage LLG.Lit(x)
 #'
+#' @export
+#' @name LLG.Lit
+#' @author Dominic LaRoche
 #'
 LLG.Lit <- function(x){
   s <- 1 - pnorm(x, 1.3, 0.5)

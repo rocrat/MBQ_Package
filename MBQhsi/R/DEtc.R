@@ -8,6 +8,9 @@
 #'
 #' @usage TC.Ellis(x)
 #'
+#' @export
+#' @name TC.Ellis
+#' @author Dominic LaRoche
 #'
 TC.Ellis <- function(x){
   s <- 1 - pbeta(x, 3, 3.1)
